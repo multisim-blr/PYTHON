@@ -1,4 +1,4 @@
-app=[]
+""" app=[]
 fruits = ['banana', 'orange', 'mango', 'lemon']
 print(len(fruits))
 
@@ -29,4 +29,17 @@ print(full_Stack)
 
 mpp=['China', 'Russia', 'USA', 'Finland', 'Sweden', 'Norway', 'Denmark']
 
-print(mpp[0:3])
+print(mpp[0:3]) """
+
+
+"""LEVEL 2"""
+
+""" 
+
+ages = [19, 22, 19, 24, 20, 25, 26, 24, 25, 24]
+ages.sort()
+add=sum(ages)
+
+median=add/2
+print(median)
+ """
